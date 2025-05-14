@@ -54,4 +54,4 @@ Go to https://console.picovoice.ai/
 
 Sign in and generate a free Access Key
 
-Paste your key in main.py file on accesss_key variable at top
+Paste your key in main.py file on access_key variable at top
