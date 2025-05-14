@@ -1,0 +1,5 @@
+pvporcupine
+pyaudio
+speechrecognition
+pyttsx3
+schedule
