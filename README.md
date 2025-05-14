@@ -61,3 +61,20 @@ Once setup is complete:
 ```bash
 python main.py
 ```
+# Additional markdown content for the remaining sections
+additional_markdown = """
+## 🗣️ Example Commands
+
+- `Add call mum`
+- `Add homework`
+- `Remind me after 5 seconds`
+- `Remind me after 10 minutes`
+
+---
+
+## 📁 Project Structure
+
+lisa_voice_assistant/
+├── main.py # Main program file
+├── requirements.txt # Required packages
+└── README.md # This file
