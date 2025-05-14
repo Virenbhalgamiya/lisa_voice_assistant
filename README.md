@@ -49,6 +49,7 @@ pip install pipwin
 pipwin install pyaudio
 ```
 🔑 Porcupine Access Key Setup
+
 Go to https://console.picovoice.ai/
 
 Sign in and generate a free Access Key
