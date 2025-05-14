@@ -80,3 +80,34 @@ lisa_voice_assistant/
 └── README.md        # This file
 ```
 
+## 📦 Example requirements.txt
+If it's missing, create a file `requirements.txt` with:
+
+```plaintext
+nginx
+pvporcupine
+speechrecognition
+pyttsx3
+pyaudio
+```
+
+## 🧪 Sample Interaction
+```plaintext
+Listening for wake word...
+Wake word detected!
+Lisa: Yes?
+Listening for your command...
+You said: remind me after 5 seconds
+Parsed Command: remind me after 5 seconds
+Lisa: Reminder set to alert after 5 seconds.
+Lisa: Hey! It's time to review your to-do list.
+Lisa will continue listening after this — no blocking or deadlock occurs.
+```
+
+## 👨‍💻 Author
+**Viren Bhalgamiya**
+Smart reminder & task management using voice
+
+## 📄 License
+For educational use only. Do not distribute commercially without permission
+
