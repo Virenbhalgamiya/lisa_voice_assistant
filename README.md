@@ -20,7 +20,7 @@ Lisa is an offline, voice-based assistant built with Python. It listens for a wa
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/lisa_voice_assistant.git
+git clone https://github.com/Virenbhalgamiya/lisa_voice_assistant.git
 cd lisa_voice_assistant
 ```
 ### 2. (Optional) Create a Virtual Environment
