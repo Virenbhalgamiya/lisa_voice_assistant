@@ -55,3 +55,9 @@ Go to https://console.picovoice.ai/
 Sign in and generate a free Access Key
 
 Paste your key in main.py file on access_key variable at top
+
+### ▶️ Run Lisa
+Once setup is complete:
+```bash
+python main.py
+```
