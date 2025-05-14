@@ -10,8 +10,7 @@ Lisa is an offline, voice-based assistant built with Python. It listens for a wa
 - Voice-to-text command parsing
 - Add to-do tasks by speaking
 - Set voice-triggered reminders (e.g., "remind me after 10 seconds")
-- Voice feedback and confirmation
-- Continues listening after reminders (non-blocking design)
+- List previous to do's
 
 ---
 
@@ -103,6 +102,10 @@ Lisa: Reminder set to alert after 5 seconds.
 Lisa: Hey! It's time to review your to-do list.
 Lisa will continue listening after this — no blocking or deadlock occurs.
 ```
+## Challenges
+- Need to wake up the assistant again after setting a reminder.
+- Application needs to be restarted to after getting alerts.
+
 
 ## 👨‍💻 Author
 **Viren Bhalgamiya**
