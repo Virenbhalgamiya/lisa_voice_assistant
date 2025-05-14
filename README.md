@@ -102,7 +102,7 @@ Lisa: Reminder set to alert after 5 seconds.
 Lisa: Hey! It's time to review your to-do list.
 Lisa will continue listening after this — no blocking or deadlock occurs.
 ```
-## Challenges
+##  👾Challenges
 - Need to wake up the assistant again after setting a reminder.
 - Application needs to be restarted to after getting alerts.
 
