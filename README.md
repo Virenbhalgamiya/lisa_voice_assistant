@@ -10,7 +10,8 @@ Lisa is an offline, voice-based assistant built with Python. It listens for a wa
 - Voice-to-text command parsing
 - Add to-do tasks by speaking
 - Set voice-triggered reminders (e.g., "remind me after 10 seconds")
-- List previous to do's
+- Show you previous to-do's by saying ("show|display|list|tell|get|see|what")
+- You can stop it by saying ("stop|exit|break|bye|thank you|quit|goodbye|enough|shut up|close") 
 
 ---
 
