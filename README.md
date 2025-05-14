@@ -73,9 +73,10 @@ additional_markdown = """
 ---
 
 ## 📁 Project Structure
-
+```plaintext
 lisa_voice_assistant/
-
-├── main.py # Main program file
+├── main.py          # Main program file
 ├── requirements.txt # Required packages
-└── README.md # This file
+└── README.md        # This file
+```
+
